@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>singup</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<style>
+#form-contact_v1{
+    text-align: center;
+
+    }
+</style>
+<body>
+
+    <form id="form-contact_v1" name="form-contact_v1" method="POST">
+        <div class="control-group">
+            <label class="control-label" for="contact_v1-name">Full name</label>
+            <div class="controls">
+                <input type="text" id="contact_v1-name" name="contact_v1[name]"
+                    data-validation="[NOTEMPTY, NAME, L>10]">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="contact_v1-email">Email address</label>
+            <div class="controls">
+                <input type="text" id="contact_v1-email" name="contact_v1[email]" data-validation="[EMAIL]">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label">Topic</label>
+            <div class="controls select">
+                <select name="contact_v1[topic]" data-validation="[NOTEMPTY]">
+                    <option value="">Choose a topic</option>
+                    <option value="1">General Support / Feedback</option>
+                    <option value="2">Copyright / Trademark Violations</option>
+                    <option value="3">Business Inquiries</option>
+                    <option value="4">Advertising</option>
+                    <option value="10">Other</option>
+                </select>
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="contact_v1-subject">Subject</label>
+            <div class="controls">
+
+                <input type="text" id="contact_v1-subject" name="contact_v1[subject]" class="input-xxxlarge"
+                    data-validation="[L>=2]" data-validation-label="This custom label from attribute">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="contact_v1-message">Message <small>Maximum 1000 characters</small></label>
+            <div class="controls">
+                <textarea id="contact_v1-message" name="contact_v1[message]"
+                    data-validation="[NOTEMPTY, L>=20, L<=1000]" rows="3">   </textarea>
+            </div>
+        </div>
+        <input type="submit" class="ui blue submit button" value="Send">
+    </form>
+    <script>
+        // Custom labels for error display
+Validation.labels = {
+    'contact_v1[email]': 'Custom label name from configuration'
+};
+ 
+// This instance has priority over global messages
+$('#form-contact_v1').validate({
+    submit: {
+        settings: {
+            inputContainer: ".control-group",
+            allErrors: true,
+            errorListClass: "attention icon"
+        }
+    },
+    messages: {
+        'NOTEMPTY': 'Overriding the NOTEMPTY message for this instance'
+    },
+    labels: {
+        'contact_v1[message]': 'Custom label name from initialization'
+    }
+});
+    </script>
+</body>
+</html>

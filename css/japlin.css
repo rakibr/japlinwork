@@ -1,0 +1,929 @@
+.Logo-Here {
+  margin-left: 75px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+}
+.navbar-nav {
+  margin-left: 100px;
+  margin: 9px 46px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.56;
+  font-style: normal;
+  color: #ff8019;
+}
+.Be-a-Partner {
+  width: 120px;
+  height: 40px;
+  margin-left: 50px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  box-shadow: 0 16px 40px 0 rgba(0, 0, 0, 0.04);
+  background-color: #49b8ff;
+  padding: 10px 17px;
+  border-radius: 4px;
+  background-color: #49b8ff;
+}
+.Sign-up {
+  width: 61px;
+  height: 23px;
+  margin: 3px 24px 2px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #001721;
+}
+.En {
+  margin-top: 10px;
+  height: 23px;
+  color: #001721;
+}
+.fa-chevron-down {
+  width: 8.7px;
+  height: 5.1px;
+  margin-left: 10px;
+}
+.back1 {
+  height: 3490px;
+  width: 1030px;
+  background-color: #fbfcff;
+}
+.color1 {
+  background-color: #fbfcff;
+  width: 880px;
+  height: 260px;
+  border-radius: 4px;
+  box-shadow: 0 16px 60px 0 rgba(0, 0, 0, 0.04);
+  margin-left: 70px;
+  margin-top: 10px;
+}
+.w3-container {
+  display: inline;
+  background-color: white;
+}
+.w3-card-4 {
+  font-size: 20px;
+  margin-left: 15px;
+}
+.w3-radio {
+  width: 15px;
+  height: 20px;
+  margin-top: 20px;
+}
+.w3-card-5 {
+  font-size: 20px;
+  margin-left: 160px;
+  margin-top: -70px;
+}
+.w3-radio1 {
+  width: 15px;
+  height: 20px;
+  margin-top: 20px;
+}
+.w3-card-6 {
+  font-size: 20px;
+  margin-left: 280px;
+  margin-top: -70px;
+}
+.w3-radio2 {
+  width: 15px;
+  height: 20px;
+  margin-top: 20px;
+}
+.Adult-1 {
+  margin-left: 20px;
+  color: #001721;
+}
+.Economy {
+  margin-left: 30px;
+  color: #001721;
+}
+.Dhaka {
+  background-color: #f5f6f7;
+  width: 220px;
+  height: 40px;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+.Dhaka-Bangladesh {
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 1.75;
+  color: #91a2b2;
+  margin-left: 10px;
+}
+.img-arrow {
+  background-color: #bbb;
+  border-radius: 50%;
+  height: 55px;
+  width: 55px;
+  margin-left: 239px;
+  margin-top: -48px;
+}
+.img-arrow-png {
+  margin-left: 17px;
+  margin-top: 18px;
+}
+.New-York {
+  width: 300px;
+  height: 40px;
+  padding: 18px 30px 17px 20px;
+  border-radius: 4px;
+  background-color: #f5f6f7;
+  margin-left: 300px;
+  margin-top: -45px;
+}
+.New-York-City {
+  width: 290px;
+  height: 30px;
+  font-size: 20px;
+  line-height: 1.75;
+  color: #91a2b2;
+  margin-top: -14px;
+}
+.Sat-26 {
+  width: 245px;
+  height: 40px;
+  margin: 10px 0 0;
+  padding: 18px 20px 17px;
+  border-radius: 4px;
+  background-color: #f5f6f7;
+  margin-left: 620px;
+  margin-top: -40px;
+}
+.Sat-26-Sep {
+  width: 260px;
+  height: 30px;
+  font-family: Poppins;
+  font-size: 20px;
+  color: #91a2b2;
+  margin-top: -10px;
+}
+.Search {
+  width: 120px;
+  height: 40px;
+  margin: 38px 205px 0 50px;
+  padding: 10px 35px;
+  border-radius: 4px;
+  background-color: tomato;
+  margin-left: 400px;
+}
+.Search1 {
+  width: 50px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  color: #141313;
+}
+.container-fluid1 {
+  margin-top: 50px;
+}
+.col-sm-55 {
+  background-color: #fbfcff;
+  height: 2790px;
+  margin-top: 20px;
+  border-radius: 4px;
+  box-shadow: 0 16px 60px 0 rgba(0, 0, 0, 0.04);
+}
+.Stops1 {
+  width: 10px;
+  height: 10;
+  margin-top: 20px;
+  font-size: 24px;
+}
+.Stops2 {
+  margin-top: -60px;
+  width: 15px;
+  margin-left: 300px;
+}
+.Stops3 {
+  width: 10px;
+}
+
+.col-sm-66 {
+  background-color: #fbfcff;
+  margin-left: 390px;
+  margin-top: -25px;
+  height: 650px;
+  width: 490px;
+  border-radius: 4px;
+  box-shadow: 0 16px 60px 0 rgba(0, 0, 0, 0.04);
+}
+.Results-80 {
+  font-size: 24px;
+  color: #001721;
+  margin-top: -2760px;
+  margin-left: 400px;
+  width: 200px;
+}
+.Best-Value1 {
+  background-color: #49b8ff;
+  width: 130px;
+  height: 45px;
+  padding: 12px;
+  border-radius: 4px;
+  background-color: #f5f6f7;
+  margin-top: -60px;
+  margin-left: 690px;
+}
+p {
+  margin-top: 100px;
+}
+.Flight-Times {
+  font-size: 24px;
+  width: 150px;
+  margin-left: -10px;
+}
+.Flight-Times2 {
+  width: 15px;
+  margin-left: 310px;
+  margin-top: -45px;
+}
+.Takeoff {
+  width: 140px;
+  height: 40px;
+  padding: 10px 49px;
+  border-radius: 4px;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+  background-color: #ff8019;
+}
+.Takeoff1 {
+  width: 52px;
+  height: 20px;
+  font-family: Poppins;
+  font-size: 14px;
+  color: #ffffff;
+}
+.Landing {
+  width: 140px;
+  height: 40px;
+
+  padding: 10px 47px;
+  border-radius: 4px;
+  background-color: #f5f6f7;
+}
+.Landing1 {
+  width: 56px;
+  height: 20px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  color: #001721;
+}
+.Take-off1 {
+  width: 182px;
+  height: 25px;
+  margin: 0 79px 16px 0;
+  font-family: Poppins;
+  font-size: 22px;
+  color: black;
+}
+.Dhaka-City {
+  font-size: 10px;
+  color: #91a2b2;
+}
+.Tue {
+  margin-left: -18px;
+  color: #91a2b2;
+}
+.PM {
+  margin-left: 60px;
+  width: 100px;
+  color: #91a2b2;
+}
+.sbg {
+  margin-left: 50px;
+}
+#rcorners1 {
+  margin-left: 32px;
+  margin-top: -73px;
+  border-radius: 5px;
+  border: 2px solid #ff8019;
+  width: 24px;
+  height: 24px;
+}
+#rcorners2 {
+  margin-left: 270px;
+  margin-top: -40px;
+  border-radius: 5px;
+  border: 2px solid #ff8019;
+  width: 24px;
+  height: 24px;
+  color: t;
+}
+.sbg1 {
+  margin-left: 10px;
+}
+#rcorners11 {
+  margin-left: -6px;
+  margin-top: -73px;
+  border-radius: 5px;
+  border: 2px solid #ff8019;
+  width: 24px;
+  height: 24px;
+}
+#rcorners22 {
+  margin-left: 227px;
+  margin-top: -40px;
+  border-radius: 5px;
+  border: 2px solid #ff8019;
+  width: 24px;
+  height: 24px;
+}
+.Emirates {
+  width: 70px;
+  margin-left: -40px;
+  height: 20px;
+}
+.Multiple {
+  margin-top: -29px;
+  margin-left: 30px;
+  font-size: 16px;
+}
+.Bdt-150-842 {
+  margin-left: 40px;
+  width: 100px;
+}
+.Multiple:hover {
+  color: tomato;
+}
+.Turkish {
+  width: 200px;
+  margin-top: -29px;
+  font-size: 16px;
+  margin-left: 30px;
+}
+.Turkish:hover {
+  color: tomato;
+}
+.Alliance1 {
+  width: 201px;
+  height: 33px;
+  margin-left: -10px;
+  font-size: 24px;
+}
+.Alliance {
+  margin-left: 310px;
+  width: 15px;
+  margin-top: -45px;
+}
+.Star-Alliance {
+  margin-top: 16px;
+  width: 70px;
+  margin-left: -55px;
+  height: 20px;
+}
+.Star-Alliance1 {
+  width: 126px;
+  height: 23px;
+  font-size: 16px;
+  margin-top: -30px;
+  margin-left: 10px;
+}
+.Amenities1 {
+  font-size: 24px;
+  margin-left: -10px;
+  margin-top: 20px;
+}
+.Amenities {
+  margin-left: 310px;
+  margin-top: 30px;
+  width: 15px;
+  margin-top: -40px;
+}
+.Wifi1 {
+  width: 24px;
+  height: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+}
+.Wifi2 {
+  width: 24px;
+  height: 20px;
+  margin-top: -27px;
+  margin-left: 20px;
+}
+.Power-Available1 {
+  width: 24px;
+  height: 20px;
+  margin-left: -20px;
+}
+.Power-Available2 {
+  width: 200px;
+  margin-left: 20px;
+  margin-top: -28px;
+}
+.Television1 {
+  width: 24px;
+  height: 20px;
+  margin-left: -20px;
+}
+.Television2 {
+  width: 200px;
+  margin-left: 20px;
+  margin-top: -28px;
+}
+.Duration1 {
+  margin-left: -10px;
+}
+.Recliner1 {
+  width: 24px;
+  height: 20px;
+  margin-left: -20px;
+}
+.Recliner2 {
+  width: 200px;
+  margin-left: 20px;
+  margin-top: -28px;
+}
+.Show-more2 {
+  text-align: center;
+}
+.Show-more1 {
+  font-size: 14px;
+  width: 15px;
+}
+.Airport1 {
+  margin-left: -10px;
+  font-size: 20px;
+}
+.Airport2 {
+  width: 15px;
+  margin-left: 310px;
+  margin-top: -50px;
+}
+.Duration {
+  width: 15px;
+  margin-left: 310px;
+  margin-top: -50px;
+}
+.h12 {
+  width: 100px;
+  margin-left: -25px;
+  font-size: 24px;
+}
+.m15 {
+  width: 100px;
+  margin-left: 45px;
+  font-size: 24px;
+}
+.sbg2 {
+  margin-left: -10px;
+}
+#rcorners12 {
+  margin-left: 188px;
+  margin-top: -73px;
+  border-radius: 5px;
+  border: 2px solid #ff8019;
+  width: 24px;
+  height: 24px;
+}
+.Departing-from {
+  font-size: 14px;
+  margin-left: -10px;
+  margin-top: 10px;
+}
+.DAC-Dhaka {
+  margin-left: -30px;
+  width: 24px;
+  height: 20px;
+}
+.DAC-Dhaka1 {
+  margin-left: -0px;
+  margin-top: -30px;
+  font-size: 16px;
+  width: 104px;
+  height: 20px;
+}
+.Layover-Airports {
+  width: 200px;
+  font-size: 24px;
+  margin-left: -10px;
+  margin-top: 20px;
+}
+.Layover-Airports1 {
+  width: 16px;
+  margin-left: 310px;
+  margin-top: -60px;
+}
+.Showmore2 {
+  font-size: 24px;
+  text-align: center;
+}
+.Showmore3 {
+  width: 15px;
+}
+.Price {
+  margin-left: -10px;
+}
+.Price1 {
+  width: 15px;
+  margin-left: 310px;
+  margin-top: -60px;
+}
+.BDT {
+  width: 100px;
+  margin-left: -25px;
+  font-size: 16px;
+}
+.BDT1 {
+  width: 110px;
+  margin-left: 30px;
+  font-size: 16px;
+}
+.Booking-Sites {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-left: -10px;
+}
+.Booking-Sites1 {
+  width: 15px;
+  margin-left: 310px;
+  margin-top: -50px;
+}
+.more{
+  font-size: 24px;
+  text-align: center;
+}
+.more1{
+  width: 15px;
+}
+.Flight{
+ 
+  font-size: 24;
+  margin-left: -10px;
+}
+.Flight1{
+  width: 15px;
+ margin-left: 310px;
+ margin-top: -50px;
+}
+.Cheap-Fares-Now {
+  width: 24px;
+  height: 20px;
+  margin-left: -25px;
+}
+.Cheap-Fares-Now1 {
+  width: 150px;
+  font-size: 16px;
+  margin-top: -27px;
+  margin-left: 30px;
+}
+.Exclude-Self-Transfers {
+  width: 200px;
+  margin-top: -28px;
+  margin-left: 10px;
+}
+.Exclude-Over-Night-Flights {
+  width: 300px;
+  margin-top: -28px;
+  margin-left: 10px;
+}
+.Departure1 {
+  margin-left: 10px;
+  font-size: 20px;
+  margin-top: -6px;
+}
+.departure11 {
+  margin-top: -16px;
+}
+.img3-png {
+  width: 120px;
+  height: 90px;
+  margin-left: -30px;
+}
+.Turkish-Airlines {
+  height: 17px;
+}
+.AM {
+  margin-left: -30px;
+  width: 70px;
+}
+.m50 {
+  width: 70px;
+}
+.PM50 {
+  width: 70px;
+  margin-left: 24px;
+}
+.a-206 {
+  width: 70px;
+  margin-left: 90px;
+  margin-top: 20px;
+  appearance: none;
+  border-bottom: none;
+  color: black;
+  text-decoration: none;
+  display: block;
+}
+/*  */
+.slidecontainer {
+  margin-left: 170px;
+  margin-top: -90px;
+  color: #001721;
+}
+.slidecontainer12 {
+  margin-left: 170px;
+  margin-top: -90px;
+  width: 100px;
+}
+.DAC {
+  margin-left: 180px;
+  margin-top: 10px;
+}
+.Booking-Com {
+  margin-left: 180px;
+  margin-top: -50px;
+}
+.Booking {
+  color: darkblue;
+}
+.Com {
+  color: #ff1919;
+  appearance: none;
+}
+#rcorners15 {
+  margin-left: 250px;
+  margin-top: -70px;
+  border-radius: 50px;
+  border: 2px solid #ff8019;
+  width: 20px;
+  height: 20px;
+}
+.img4-png {
+  margin-top: 30px;
+  width: 120px;
+  height: 90px;
+  margin-left: -10px;
+}
+.Turkish-Airlines1 {
+  height: 17px;
+  margin-left: 15px;
+}
+.time1 {
+  margin-left: 45px;
+  font-size: 16px;
+  color: #001721;
+  margin-top: 30px;
+}
+.time2 {
+  margin-left: 175px;
+  font-size: 16px;
+  color: #001721;
+  margin-top: -40px;
+}
+.slidecontainer13 {
+  margin-left: 170px;
+  margin-top: -95px;
+  width: 100px;
+}
+.time-3 {
+  margin-left: 120px;
+  margin-top: -80px;
+}
+.View-deal {
+  width: 68px;
+  height: 20px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  margin-top: -145px;
+  margin-left: -55px;
+}
+.View-deal1 {
+  width: 100px;
+  height: 40px;
+  margin: 30px 0 16px 77px;
+  padding: 12px 12px;
+  border-radius: 4px;
+  background-color: #ff8019;
+  font-size: 14px;
+}
+.button-button {
+  text-align: center;
+  border: none solid;
+  margin-top: 20px;
+}
+.button-button1 {
+  text-align: center;
+  border: none solid;
+  margin-top: 20px;
+}
+.col-sm-67 {
+  margin-top: 20px;
+  height: 650px;
+}
+.col-sm-68 {
+  background-color: #fbfcff;
+  margin-top: 30px;
+  height: 630px;
+  border-radius: 4px;
+  box-shadow: 0 16px 60px 0 rgba(0, 0, 0, 0.04);
+}
+.col-sm-69 {
+  background-color: beige;
+  margin-top: 20px;
+  height: 630px;
+  background-color: #fbfcff;
+  border-radius: 4px;
+  box-shadow: 0 16px 60px 0 rgba(0, 0, 0, 0.04);
+}
+.col-sm-70 {
+  background-color: beige;
+  height: 630px;
+  margin-top: -15px;
+  background-color: #fbfcff;
+  border-radius: 4px;
+  box-shadow: 0 16px 60px 0 rgba(0, 0, 0, 0.04);
+}
+/*  */
+.ul1 {
+  position: relative;
+  background: white;
+  display: flex;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.ul1 li {
+  list-style: none;
+  line-height: 50px;
+  margin: 0 5px;
+}
+.ul1 li.pgnumber {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+}
+.ul1 li a {
+  display: block;
+  text-decoration: none;
+  font-weight: 600px;
+  border-radius: 5px;
+  color: #141313;
+}
+.ul1 li.pgnumber:hover a,
+.ul1 li.pgnumber.activ a {
+  background-color: #ff4958;
+  color: black;
+}
+.ul1 li:first-child {
+  margin-right: 30px;
+  font-weight: 600px;
+  font-size: 20px;
+}
+.ul1 li:last-child {
+  margin-left: 30px;
+  font-weight: 600px;
+  font-size: 20px;
+}
+.Pagination {
+  margin-top: 39px;
+}
+.container-fluid12 {
+  margin-top: 50px;
+}
+.Logo-Here11 {
+  font-size: 20px;
+  margin-left: -400px;
+ 
+}
+.Logo-Here12 {
+  color: #49b8ff;
+}
+.Be-a-Blogger1 {
+  width: 120px;
+  height: 40px;
+  margin: 14px 280px 25px 0;
+  padding: 10px 16px;
+  border-radius: 4px;
+  background-color: skyblue;
+}
+.Be-a-Blogger {
+  width: 88px;
+  height: 20px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  color: #ffffff;
+}
+.Logo-Here13 {
+  margin-top: 55px;
+}
+.fa-facebook1 {
+  margin-left: -20px;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: #49b8ff;
+}
+.fa-pinterest1 {
+  margin-left: -40px;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: whitesmoke;
+}
+.fa-twitter1 {
+  margin-left: -60px;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: whitesmoke;
+}
+.fa-twitter1 a {
+  text-decoration: none;
+}
+.fa-instagram1 {
+  margin-left: -80px;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: whitesmoke;
+}
+.fa-instagram1 a {
+  text-decoration: none;
+}
+.fa-linkedin1 {
+  margin-left: -100px;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: whitesmoke;
+}
+.fa-linkedin1 a {
+  text-decoration: none;
+}
+.Support1 {
+  margin-left: -200px;
+}
+.Support1 {
+  width: 81px;
+  height: 28px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  color: #001721;
+}
+.Support2 ul li {
+  width: 150px;
+  list-style: none;
+  text-decoration: none;
+  line-height: 40px;
+}
+.Support2 ul {
+  margin-left: -5px;
+  margin-top: -10px;
+}
+.Support2 ul li a {
+  color: #91a2b2;
+  text-decoration: none;
+}
+.Features {
+  margin-left: -150px;
+}
+.Features1 {
+  font-size: 20px;
+}
+.Features2 ul li {
+  list-style: none;
+  color: #91a2b2;
+  line-height: 37px;
+}
+.Features2 ul li a {
+  color: #91a2b2;
+  text-decoration: none;
+}
+.Our-Address {
+  margin-left: -140px;
+}
+.Our-Address1 {
+  font-size: 20px;
+}
